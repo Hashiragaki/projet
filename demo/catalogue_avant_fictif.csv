@@ -1,0 +1,10 @@
+ sku ; nom ; prix ; stock ; ean
+ SKU-001 ;  Carnet quadrillé  ; 12,90 € ; 003 ; 0012345678905
+SKU-001;Carnet quadrillé;12,90 €;003;0012345678905
+ SKU-002 ;Crayon graphite ;1,5;20;0001234567897
+SKU-003;Tasse verte;prix à confirmer;8;0123456789012
+SKU-002;Crayon graphite;1,50;24;0001234567897
+SKU-004;Pochette tissu;;-2;0011111111111
+ ; ; ; ;
+SKU-005;Affiche A3;1.234;4;0012222222222
+SKU-006;Pince bois;2,50;3,0;0013333333333
