@@ -1,0 +1,8 @@
+ligne_source,colonne,valeur_conservee,motif
+4,sku,SKU-002,"référence avec valeurs différentes ; lignes 4, 6 conservées"
+5,prix,prix à confirmer,prix manquant ou ambigu ; décision nécessaire
+6,sku,SKU-002,"référence avec valeurs différentes ; lignes 4, 6 conservées"
+7,prix,,prix manquant ou ambigu ; décision nécessaire
+7,stock,-2,stock non entier ou négatif ; décision nécessaire
+9,prix,1.234,prix manquant ou ambigu ; décision nécessaire
+10,stock,"3,0",stock non entier ou négatif ; décision nécessaire
